@@ -1,6 +1,7 @@
 # Intro to Git
 
 ## [Git Documentation](https://git-scm.com/doc)
+## [Learn Git Branching](https://learngitbranching.js.org/?NODEMO)
 
 ### Commands covered: 
 
